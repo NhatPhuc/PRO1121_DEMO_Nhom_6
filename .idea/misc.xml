@@ -3,11 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Du_an_1/PRO1121_DEMO_Nhom_6/app/src/main/res/layout/activity_mahinhcao.xml" value="0.17552083333333332" />
-        <entry key="..\:/Du_an_1/PRO1121_DEMO_Nhom_6/app/src/main/res/layout/activity_manhinhchao.xml" value="0.17552083333333332" />
-        <entry key="..\:/Du_an_1/PRO1121_DEMO_Nhom_6/app/src/main/res/layout/activity_tinh_nang01.xml" value="0.17552083333333332" />
         <entry key="..\:/Du_an_1/PRO1121_DEMO_Nhom_6/app/src/main/res/layout/item_user.xml" value="0.17447916666666666" />
-        <entry key="..\:/Du_an_1/PRO1121_DEMO_Nhom_6/app/src/main/res/layout/tinh_nang_02.xml" value="0.1" />
+        <entry key="..\:/adroi co ban/PRO1121_DEMO_Nhom_6/app/src/main/res/layout/demo_login.xml" value="0.12552083333333333" />
+        <entry key="..\:/adroi co ban/PRO1121_DEMO_Nhom_6/app/src/main/res/layout/demo_manhinhkhoa.xml" value="0.1" />
+        <entry key="..\:/adroi co ban/PRO1121_DEMO_Nhom_6/app/src/main/res/layout/tinh_nang_02.xml" value="0.1265625" />
       </map>
     </option>
   </component>
