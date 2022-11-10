@@ -3,11 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+ 
+        <entry key="..\:/Users/hi/Android2/PRO1121_DEMO_Nhom_6/app/src/main/res/layout/activity_tinh_nang02.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/hi/Android2/PRO1121_DEMO_Nhom_6/app/src/main/res/layout/item_user.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/hi/Android2/PRO1121_DEMO_Nhom_6/app/src/main/res/layout/layout_item_01.xml" value="0.11197916666666667" />
+ 
         <entry key="..\:/Du_an_1/PRO1121_DEMO_Nhom_6/app/src/main/res/layout/activity_mahinhcao.xml" value="0.17552083333333332" />
         <entry key="..\:/Du_an_1/PRO1121_DEMO_Nhom_6/app/src/main/res/layout/activity_manhinhchao.xml" value="0.17552083333333332" />
         <entry key="..\:/Du_an_1/PRO1121_DEMO_Nhom_6/app/src/main/res/layout/activity_tinh_nang01.xml" value="0.17552083333333332" />
         <entry key="..\:/Du_an_1/PRO1121_DEMO_Nhom_6/app/src/main/res/layout/item_user.xml" value="0.17447916666666666" />
         <entry key="..\:/Du_an_1/PRO1121_DEMO_Nhom_6/app/src/main/res/layout/tinh_nang_02.xml" value="0.1" />
+ 
       </map>
     </option>
   </component>
